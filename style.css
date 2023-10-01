@@ -17,6 +17,8 @@
 }
 .sign-in{
     text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
 .logo{
     background-image: url("images/max.jpg");
