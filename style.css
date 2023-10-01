@@ -15,6 +15,9 @@
     height: 50px;
     width: 100px;
 }
+a{
+    text-decoration: none;
+}
 .logo{
     background-image: url("images/max.jpg");
     background-size: cover;
